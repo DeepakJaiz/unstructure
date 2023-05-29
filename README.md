@@ -7,7 +7,7 @@ In this lesson we learn how to extract text from a variety of unstructured text 
 https://llamahub.ai/l/file-unstructured
 
 ### Prerequist
-You required Phython in your system fyou can follow this (https://www.python.org)
+You required Phython in your system you can follow this (https://www.python.org) <br/>
 Install VScode to run the code
 
 ### Modules required
@@ -16,5 +16,5 @@ Install VScode to run the code
 
 ### How to run
 
-Open the file in VScode.<br/.
+Open the file in VScode.<br/>
 Run each .py file
